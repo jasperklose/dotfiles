@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kontakt@jasperklose.com
+	name = Jasper Klose
